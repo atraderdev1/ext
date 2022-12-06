@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ext", "ext.vcproj", "{3F86C43F-7FDD-406C-8E3B-4E7497FB8B1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		ReleaseNoOpt|Win32 = ReleaseNoOpt|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F86C43F-7FDD-406C-8E3B-4E7497FB8B1A}.ReleaseNoOpt|Win32.ActiveCfg = ReleaseNoOpt|Win32
+		{3F86C43F-7FDD-406C-8E3B-4E7497FB8B1A}.ReleaseNoOpt|Win32.Build.0 = ReleaseNoOpt|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

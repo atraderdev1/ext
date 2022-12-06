@@ -1,0 +1,7 @@
+; ext.def : Declares the module parameters for the DLL.
+
+LIBRARY      "ext"
+DESCRIPTION  'ext Windows Dynamic Link Library'
+
+EXPORTS
+    ; Explicit exports can go here
